@@ -1,1 +1,11 @@
-# dlaczego-batch-to-kasztan
+# Dlaczego batch to kasztan
+- Jest stary
+- Nie napiszesz w nim żadnego porządniejszego programu
+- Działa tylko na windowsie
+- Jest językiem skryptowym
+- Nie ma w sobie nic przydatnego
+- Nie uczy programowania
+- Miał służyć tylko do automatyzacji, a teraz autystyczne dzieci piszą w nim "wirusy"
+- Ma zły syntax
+- Powershell jest lepszy i nowocześniejszy
+- Zamiast funkcji jest GOTO
