@@ -1,7 +1,7 @@
 # Dlaczego flash to kasztan
 - Jest stary
 - Nie napiszesz w nim żadnego porządniejszego programu
-- Działa tylko na windowsie
+- Działa tylko na windowsie i Internet Explorerze
 - Nie Jest językiem programowania
 - Nie ma w sobie nic przydatnego
 - Nie uczy programowania
