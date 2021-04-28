@@ -1,11 +1,11 @@
-# Dlaczego batch to kasztan
+# Dlaczego flash to kasztan
 - Jest stary
 - Nie napiszesz w nim żadnego porządniejszego programu
 - Działa tylko na windowsie
-- Jest językiem skryptowym
+- Nie Jest językiem programowania
 - Nie ma w sobie nic przydatnego
 - Nie uczy programowania
-- Miał służyć tylko do automatyzacji, a teraz autystyczne dzieci piszą w nim "wirusy"
+- Miał służyć tylko do animacji, a teraz autystyczne dzieci piszą w nim "gry"
 - Ma zły syntax
-- Powershell jest lepszy i nowocześniejszy
-- Zamiast funkcji jest GOTO
+- HTML5 jest lepszy i nowocześniejszy
+- Nie ma funkcji
