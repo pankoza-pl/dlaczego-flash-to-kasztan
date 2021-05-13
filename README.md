@@ -9,3 +9,4 @@
 - Ma zły syntax
 - HTML5 jest lepszy i nowocześniejszy
 - Nie ma funkcji
+- pzpl i Vizja robią w nim "wirusy"
